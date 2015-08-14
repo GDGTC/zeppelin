@@ -10,34 +10,33 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-shortTitle: "DevFest14"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+title: "DevFest MN 2016"
+email: "info@gdgtc.com"
+description: "DevFest MN is the annual Google Developer Group festival, with 300+ participants"
 baseurl: "/zeppelin"
-url: "http://gdg-x.github.io"
+url: "https://gdgtc.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+googleAnalyticsTrackingId: "UA-46026381-2"
+googleAnalyticsSiteUrl: "devfest.mn"
+siteVerification: "xxx"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerName: "GDG Twin Cities"
+organizerAlternateName: "Google Developer Group Twin Cities"
+organizerDescription: "Twin Cities Google Dev Resouce."
+organizerEmail: "info@gdgtc.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://gdgtc.com/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+twitterAccount: "@gdgtc"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
+c4pUrl: "https://bit.ly/dfua-c4p"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
@@ -51,18 +50,18 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://goo.gl/tLdxKF", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://goo.gl/tLdxKF", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
+heroTitle: "DevFest MN <typeout> 2016"
+eventDate: "Feb 6, 2016"
 typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
@@ -128,7 +127,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
-subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
