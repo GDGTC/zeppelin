@@ -58,10 +58,10 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "DevFest MN <typeout> 2016"
 eventDate: "Feb 6, 2016"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+typeoutTextValues: '"", "Develop", "Learn", "Network", "Inspire"'
+typeoutFallback: "Develop"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://goo.gl/tLdxKF", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
