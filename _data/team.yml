@@ -1,22 +1,22 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
+  name: "Lloyd"
+  surname: "Cledwyn"
+  title: "Sponsors and Venue Manager"
   thumbnailUrl: VitaliyZasadnyy.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "google-plus", link: "https://google.com/+LloydCledwyn"}
+    - {name: "twitter", link: "https://twitter.com/cledwyn"}
+    - {name: "github", link: "https://github.com/cledwyn"}
+    - {name: "site", link: "http://cledwyn.com/"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
+  name: "Stephen"
+  surname: "Fluin"
+  title: "Speaker Manager and Chrome GDE"
   thumbnailUrl: OlehZasadnyy.jpg
   team: true
   ribbon: 
