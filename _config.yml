@@ -22,14 +22,14 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
 organizerName: "Google Developer Group - Twin Cities"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerAlternateName: "Google Developer Group - Twin Cities"
+organizerDescription: "Vibrant and active volunteer-ran group focued on Google technologies."
+organizerEmail: "cledwyn@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://gdgtc.com/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+metaKeywords: "event, gdg, devfest, devfestmn, gdgtc, google, programming, android, chrome, IoT, developers, schulze"
 twitterAccount: "@DevFestMN"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -56,7 +56,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "DevFestMN 2016: <typeout>"
+heroTitle: "DevFestMN 2016 | <typeout>"
 eventDate: "February 6, 2016"
 typeoutTextValues: '"", "Android", "Chrome", "IoT", "Design"'
 typeoutFallback: "  "
@@ -67,25 +67,25 @@ heroButtons:
 # About Block
 aboutTitle: "About DevFestMN"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Conference", image: "conference.jpg", text: "Huge developer oriented tech event in the MidWest and Twin Cities! Awesome speakers and lots of fun!" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Workshops, hands-on experience, hacking and debugging. Come and tame your favorite technology or topic!" }
+ - {title: "After Party", image: "hackathon.jpg", text: "Casual and fun sponsor-hosted after party where you can mingle, have a drink, and meet the speakers." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
+ - {count: "250", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "8", specialCharacter: "+", info: "hours", detail: "of pure technology fun"}
  - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "5", specialCharacter: "", info: "amazing tracks", detail: "plus an afterparty"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Latest News"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersTitle: "Rockstar Speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
@@ -111,7 +111,7 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "University of St. Thomas - Schulze Hall"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueFeatures: ["Great Venue", "Large Auditorium", "Easy Parking"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -121,30 +121,30 @@ twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_int
 
 # Partners Block
 organizersTitle: "Organizers"
-partnersTitle: "Partners"
+partnersTitle: "Sponsors"
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
+subscribeTitle: "Subscribe for Updates"
 subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeInfo: "Registration will be open around December. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsInfo: "Tickets vailde for all day conference event and include snacks, lunch and after-party access."
 ticketsOffers:
  -
   name: "Early Bird"
-  price: "$TBD"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  price: "$20"
+  priceCurrency: ""
+  ticketsNumber: "50"
+  ribbon: "-33.33%"
+  buyButtonLink: "http://eventbrite.com/"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
+  validFrom: "2016-08-25T10:00"
+  validThrough: "2015-09-30T23:59"
  -
   name: "Last Chance"
   price: "$TBD"
@@ -182,7 +182,7 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "http://gdgtc.com/#home", text: "GDGTC.com"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
@@ -194,9 +194,9 @@ footerBlocks:
    - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
-blogTitle: "Latest news"
+blogTitle: "Latest News"
 blogCommentsEnabled: true
-discusShortName: "devfestua"
+discusShortName: "devfestmn"
 
 # Speakers List Block
 showSessions: true
@@ -219,11 +219,11 @@ logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Minneapolis"
+directionDetailsTitle: "Getting Around Minneapolis"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "From the Airport", information: 'The conference is approximately 30 minutes north-west from the Minneapolis St. Paul International Airport.'}
+ - {title: "Public Transit", information: 'Taxis, bus services and light rails are all safe methods of travel. Uber and Uber Pool are also highly recommended.'}
+ - {title: "Parking", information: 'The City of Minneapolis Parking Ramp at 11th Street & Harmon Place allows for hourly parking for visitors, faculty, staff and students. The entrance and exit to the ramp is on 11th Street, just west of Harmon Place. Street parking is also avaialble..'}
 directionDetailsWideCards:
  -
   title: "Questions?"
@@ -231,28 +231,21 @@ directionDetailsWideCards:
    -
     title: "Hotels"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "http://doubletree3.hilton.com/en/hotels/minnesota/doubletree-suites-by-hilton-hotel-minneapolis-MSPLSDT/index.html", text: "Doubletree Suites by Hilton Minneapolis"}
+     - {link: "http://minneapolis.hyatt.com/en/hotel/home.html", text: "Hyatt Regency Minneapolis"}
+     - {link: "http://www.lemeridienchambers.com/", text: "Le Méridien Chambers Minneapolis"}
+     - {link: "http://www3.hilton.com/en/hotels/minnesota/hilton-minneapolis-MSPMHHH/index.html", text: "Hilton Minneapolis"}
    -
-    title: "Registration"
+    title: "Nearby Restaurants"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Attendance Details"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "http://the-local.com/", text: "The Local (Irish)"}
+     - {link: "http://barriotequila.com/", text: "Barrio (Latin)"}
+     - {link: "http://www.hellskitcheninc.com/", text: "Hell's Kitchen (Breakfast & Eclectic)"}
+     - {link: "http://pizzaluce.com/", text: "Pizza Luce (Italian)"}
 
 # Hackathon
 hackathonTitle: "Hackathon"
-enableHackathon: true
+enableHackathon: false
 
 # Hackathon About Block
 aboutHackathonTitle: "Meet our themes"
