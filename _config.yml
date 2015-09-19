@@ -22,14 +22,14 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
 organizerName: "Google Developer Group - Twin Cities"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerAlternateName: "Google Developer Group - Twin Cities"
+organizerDescription: "Vibrant and active volunteer-ran group focued on Google technologies."
+organizerEmail: "cledwyn@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://gdgtc.com/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+metaKeywords: "event, gdg, devfest, devfestmn, gdgtc, google, programming, android, chrome, IoT, developers, schulze"
 twitterAccount: "@DevFestMN"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -56,7 +56,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "DevFestMN 2016: <typeout>"
+heroTitle: "DevFestMN 2016 | <typeout>"
 eventDate: "February 6, 2016"
 typeoutTextValues: '"", "Android", "Chrome", "IoT", "Design"'
 typeoutFallback: "  "
@@ -67,16 +67,16 @@ heroButtons:
 # About Block
 aboutTitle: "About DevFestMN"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Conference", image: "conference.jpg", text: "Huge developer oriented tech event in the MidWest and Twin Cities! Awesome speakers and lots of fun!" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Workshops, hands-on experience, hacking and debugging. Come and tame your favorite technology or topic!" }
+ - {title: "After Party", image: "hackathon.jpg", text: "Casual and fun sponsor-hosted after party where you can mingle, have a drink, and meet the speakers." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "250+", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "250", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "8", specialCharacter: "+", info: "hours", detail: "of pure technology fun"}
- - {count: "20+", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
  - {count: "5", specialCharacter: "", info: "amazing tracks", detail: "plus an afterparty"}
 
 # Latest News Block
@@ -111,7 +111,7 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "University of St. Thomas - Schulze Hall"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueFeatures: ["Great Venue", "Large Auditorium", "Easy Parking"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -121,7 +121,7 @@ twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_int
 
 # Partners Block
 organizersTitle: "Organizers"
-partnersTitle: "Partners"
+partnersTitle: "Sponsors"
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
