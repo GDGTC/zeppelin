@@ -50,9 +50,9 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/1yw_Kn-85Qtd0PddcUaW_kE4k40Ag6BkAzIM4PpakQ78/viewform", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/1yw_Kn-85Qtd0PddcUaW_kE4k40Ag6BkAzIM4PpakQ78/viewform", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -61,7 +61,7 @@ eventDate: "February 6, 2016"
 typeoutTextValues: '"", "Android", "Chrome", "IoT", "Design"'
 typeoutFallback: "  "
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/1yw_Kn-85Qtd0PddcUaW_kE4k40Ag6BkAzIM4PpakQ78/viewform", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
