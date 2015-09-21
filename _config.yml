@@ -10,27 +10,27 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "DevFest MN 2016"
-email: "info@gdgtc.com"
-description: "DevFest MN is the annual Google Developer Group festival, with 300+ participants"
+title: "DevFestMN 2016"
+email: "info@devfest.mn"
+description: "DevFestMN is a Google Developer Group - Twin Cities hosted technology event."
 baseurl: "/zeppelin"
-url: "https://gdgtc.github.io"
+url: "https://gdg-x.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-46026381-2"
-googleAnalyticsSiteUrl: "devfest.mn"
-siteVerification: "xxx"
+googleAnalyticsTrackingId: "UA-43643469-5"
+googleAnalyticsSiteUrl: "gdg-x.github.io"
+siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Twin Cities"
-organizerAlternateName: "Google Developer Group Twin Cities"
-organizerDescription: "Twin Cities Google Dev Resouce."
-organizerEmail: "info@gdgtc.com"
+organizerName: "Google Developer Group - Twin Cities"
+organizerAlternateName: "Google Developer Group - Twin Cities"
+organizerDescription: "Vibrant and active volunteer-ran group focued on Google technologies."
+organizerEmail: "cledwyn@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://gdgtc.com/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, minneapolis"
-twitterAccount: "@gdgtc"
+metaKeywords: "event, gdg, devfest, devfestmn, gdgtc, google, programming, android, chrome, IoT, developers, schulze"
+twitterAccount: "@DevFestMN"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -43,66 +43,66 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
-# - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
-# - {permalink: "/hackathon/", text: "Hackathon"}
+ - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://goo.gl/tLdxKF", text: "Become a speaker"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://goo.gl/tLdxKF", text: "Become a speaker"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "DevFest MN <typeout> 2016"
-eventDate: "Feb 6, 2016"
-typeoutTextValues: '"", "Develop", "Learn", "Network", "Inspire"'
-typeoutFallback: "Develop"
+heroTitle: "DevFestMN 2016 | <typeout>"
+eventDate: "February 6, 2016"
+typeoutTextValues: '"", "Android", "Chrome", "IoT", "Design"'
+typeoutFallback: "  "
 heroButtons:
- - {link: "https://goo.gl/tLdxKF", text: "Become a speaker"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About DevFestMN"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Conference", image: "conference.jpg", text: "Huge developer oriented tech event in the MidWest and Twin Cities! Awesome speakers and lots of fun!" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Workshops, hands-on experience, hacking and debugging. Come and tame your favorite technology or topic!" }
+ - {title: "After Party", image: "hackathon.jpg", text: "Casual and fun sponsor-hosted after party where you can mingle, have a drink, and meet the speakers." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
+ - {count: "250", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "8", specialCharacter: "+", info: "hours", detail: "of pure technology fun"}
  - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "5", specialCharacter: "", info: "amazing tracks", detail: "plus an afterparty"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Latest News"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersTitle: "Rockstar Speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "UST Shultze Hall"
-eventLocationLink: "https://goo.gl/Ui6x6M"
-eventStreetAddress: "32 S 11th St"
+eventLocationName: "University of St. Thomas - Schulze Hall"
+eventLocationLink: "https://www.google.com/maps/place/University+of+St.+Thomas+-+Opus+College+of+Business/@44.9745667,-93.2767806,14z/data=!4m5!1m2!2m1!1sschulze+hall!3m1!1s0x52b332942e2c9481:0x624b1a38a350d4d1"
+eventStreetAddress: "1000 Lasalle Ave"
 eventAddressLocality: "Minneapolis"
 eventAddressLocalityRegion: "MN"
 eventPostalCode: "55403"
 eventAddressCountry: "USA"
-eventStartTime: "2016-02-06T08:00-06:00"
+eventStartTime: "2016-02-06T08:00"
 eventDoorTime: "08:00"
-eventEndTime: "2016-02-06T18:00-06:00"
-eventPlaceCoordinates: "44.9739325,-93.2778167"
-mapCenterCoordinates: "44.9739325,-93.2778167"
-mapMobileCenterCoordinates: "44.9739325,-93.2778167"
+eventEndTime: "2016-02-06T17:00"
+eventPlaceCoordinates: "44.9745667,-93.2767806"
+mapCenterCoordinates: "44.9745667,-93.2767806"
+mapMobileCenterCoordinates: "44.9745667,-93.2767806"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -110,58 +110,58 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "University of St. Thomas Shultze Hall"
-venueFeatures: ["Lovely space", "Huge main auditorium", "Multiple breakout classrooms", "Located directly in the city center"]
+venueTitle: "University of St. Thomas - Schulze Hall"
+venueFeatures: ["Great Venue", "Large Auditorium", "Easy Parking"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "devfestmn"
-twitterFeed: "http://twitter.com/gdgtc"
+twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Organizers"
-partnersTitle: "Partners"
+partnersTitle: "Sponsors"
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
+subscribeTitle: "Subscribe for Updates"
 subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open mid December. Number of tickets are limited. Stay tuned!"
+subscribeInfo: "Registration will be open around December. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsInfo: "Tickets vailde for all day conference event and include snacks, lunch and after-party access."
 ticketsOffers:
  -
   name: "Early Bird"
-  price: "20"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://devfestmn.eventbrite.com/"
+  price: "$20"
+  priceCurrency: ""
+  ticketsNumber: "50"
+  ribbon: "-33.33%"
+  buyButtonLink: "http://eventbrite.com/"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2015-12-00T00:00"
-  validThrough: "2016-01-01T23:59"
+  validFrom: "2016-08-25T10:00"
+  validThrough: "2015-09-30T23:59"
  -
   name: "Last Chance"
-  price: "40"
+  price: "$TBD"
   priceCurrency: "UAH"
   ticketsNumber: "100"
   ribbon: "-20%"
   featured: true
-  buyButtonLink: "http://devfestmn.eventbrite.com/"
+  buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2016-01-01T00:00"
-  validThrough: "2016-02-23T23:59"
+  validFrom: "2014-10-01T00:00"
+  validThrough: "2014-10-23T23:59"
   disabled: true
  -
   name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
+  price: "$TBD"
+  priceCurrency: ""
   ticketsNumber: "50"
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
@@ -174,15 +174,15 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://plus.google.com/+Gdgtc/posts", icon: "google-plus"}
+ - {link: "https://twitter.com/gdgtc", icon: "twitter"}
+ - {link: "https://facebook.com/GDGTC", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "http://gdgtc.com/#home", text: "GDGTC.com"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
@@ -194,15 +194,15 @@ footerBlocks:
    - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
-blogTitle: "Latest news"
+blogTitle: "Latest News"
 blogCommentsEnabled: true
-discusShortName: "devfestua"
+discusShortName: "devfestmn"
 
 # Speakers List Block
 showSessions: true
 
 # Team Block
-teamBlockTitle: "About us"
+teamBlockTitle: "About Us"
 aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
 
 # Logistics Find Way Block
@@ -212,18 +212,18 @@ findWayDriving: "DRIVING"
 findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
-findWayFindFlight: "Find Flight"
+findWayFindFlight: "Find Flights"
 logisticsMapCenterCoordinates: "49.056728, 3.117289"
 logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Lviv"
+directionDetailsTitle: "Getting Around Minneapolis"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "From the Airport", information: 'The conference is approximately 30 minutes north-west from the Minneapolis St. Paul International Airport.'}
+ - {title: "Public Transit", information: 'Taxis, bus services and light rails are all safe methods of travel. Uber and Uber Pool are also highly recommended.'}
+ - {title: "Parking", information: 'The City of Minneapolis Parking Ramp at 11th Street & Harmon Place allows for hourly parking for visitors, faculty, staff and students. The entrance and exit to the ramp is on 11th Street, just west of Harmon Place. Street parking is also avaialble..'}
 directionDetailsWideCards:
  -
   title: "Questions?"
@@ -231,28 +231,21 @@ directionDetailsWideCards:
    -
     title: "Hotels"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "http://doubletree3.hilton.com/en/hotels/minnesota/doubletree-suites-by-hilton-hotel-minneapolis-MSPLSDT/index.html", text: "Doubletree Suites by Hilton Minneapolis"}
+     - {link: "http://minneapolis.hyatt.com/en/hotel/home.html", text: "Hyatt Regency Minneapolis"}
+     - {link: "http://www.lemeridienchambers.com/", text: "Le Méridien Chambers Minneapolis"}
+     - {link: "http://www3.hilton.com/en/hotels/minnesota/hilton-minneapolis-MSPMHHH/index.html", text: "Hilton Minneapolis"}
    -
-    title: "Registration"
+    title: "Nearby Restaurants"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Attendance Details"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "http://the-local.com/", text: "The Local (Irish)"}
+     - {link: "http://barriotequila.com/", text: "Barrio (Latin)"}
+     - {link: "http://www.hellskitcheninc.com/", text: "Hell's Kitchen (Breakfast & Eclectic)"}
+     - {link: "http://pizzaluce.com/", text: "Pizza Luce (Italian)"}
 
 # Hackathon
 hackathonTitle: "Hackathon"
-enableHackathon: true
+enableHackathon: false
 
 # Hackathon About Block
 aboutHackathonTitle: "Meet our themes"
