@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "DevFestMN 2016"
 email: "info@devfest.mn"
 description: "DevFestMN is a Google Developer Group - Twin Cities hosted technology event."
-baseurl: "/"
+baseurl: ""
 url: "https://devfest.mn"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-XXX-5"
